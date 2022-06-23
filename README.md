@@ -3,5 +3,5 @@ This paper focused on the analysis of global suicides and to check if the cluste
 The code was written in R as an experiment to learn the ins and outs of it and the report was written in portuguese.
 
 <p align="center">
-       <img src="https://i.imgur.com/1d0GHBU.png" width="550" height="350" alt="Layout of the website">
+       <img src="https://i.imgur.com/1d0GHBU.png" width="550" height="450" alt="Layout of the website">
 </p>
